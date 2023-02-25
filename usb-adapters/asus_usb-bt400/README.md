@@ -333,6 +333,7 @@ Device Status:     0x0000
 ```
 
 ## bluez-info.sh
+```
 ===commands:
 hci1:	Type: Primary  Bus: USB
 	BD Address: 5C:F3:70:A4:A4:30  ACL MTU: 1021:8  SCO MTU: 64:1
